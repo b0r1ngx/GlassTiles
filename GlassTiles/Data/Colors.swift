@@ -10,4 +10,4 @@ let Cyan = Color(red: 0.00, green: 0.82, blue: 1.00)
 let Green = Color(red: 0.00, green: 0.82, blue: 0.35)
 
 // A vibrant spectrum of colors mimicking the iOS Photos app palette
-let petalColors: [Color] = [Yellow, Orange, Red, Pink, Purple, Blue, Cyan, Green]
+let petalColors: [Color] = [Orange, Yellow, Green, Cyan, Blue, Purple, Pink, Red]
